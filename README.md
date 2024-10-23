@@ -18,7 +18,7 @@ Change `https://discord.com/api/webhooks/<id>/<str>` to `https://yourproxyurl.co
 
 2. Click the Remix on Glitch
 
-3. Get the project URL, https://project-name.glitch.me
+3. Get the project URL, the synatx would be eg: https://project-name.glitch.me
 
 
 ## Google Collab

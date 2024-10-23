@@ -11,11 +11,22 @@ Usage:
 
 Change `https://discord.com/api/webhooks/<id>/<str>` to `https://yourproxyurl.com/api/webhooks/<id>/<str>`
 
+# Deployment options
+
 ## Glitch
+1. [Sign Up to Glitch](https://glitch.com/signin)
+
+2. Click the Remix on Glitch
+
+3. Get the project URL, https://project-name.glitch.me
+
 
 ## Google Collab
 
 ## Replit
+
+
+
 
 
 

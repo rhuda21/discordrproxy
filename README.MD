@@ -1,1 +1,1 @@
-# A Discord Webhook Proxy
+# Discord Webhook Proxy

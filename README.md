@@ -26,7 +26,7 @@ Change `https://discord.com/api/webhooks/<id>/<str>` to `https://yourproxyurl.co
 
 2.  Go to Code then make a new Codespace
 
-3.  In the codespace shell run ./start.sh
+3.  In the codespace shell run sudo  ./start.sh
 
 
 

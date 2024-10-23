@@ -20,6 +20,13 @@ Change `https://discord.com/api/webhooks/<id>/<str>` to `https://yourproxyurl.co
 
 3. Get the project URL, the synatx would be eg: https://project-name.glitch.me
 
+## Github Codespaces
+
+1. Sign up to GitHub if you don't have a account already
+
+2.  Go to Code then make a new Codespace
+
+3.  In the codespace shell run ./start.sh
 
 
 

@@ -21,10 +21,6 @@ Change `https://discord.com/api/webhooks/<id>/<str>` to `https://yourproxyurl.co
 3. Get the project URL, the synatx would be eg: https://project-name.glitch.me
 
 
-## Google Collab
-
-## Replit
-
 
 
 

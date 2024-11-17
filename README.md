@@ -4,7 +4,7 @@
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button-v2.svg)](https://glitch.com/edit/#!/remix/noble-determined-coat)
 
-
+## NOTE: PROXY V2 WORK ON LATEST PYTHON
 ------------
 
 Usage:

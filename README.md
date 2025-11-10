@@ -15,9 +15,9 @@ Change `https://discord.com/api/webhooks/<id>/<str>` to `https://yourproxyurl.co
 # Deployment options
 
 ## Vercel
-1. [Sign Up to Glitch](https://glitch.com/signin)
+1. [Sign Up to Vercel]([https://glitch.com/signin](https://vercel.com/signup))
 
-2. Click the Remix on Glitch
+2. Click the Deploy to Vercel
 
 3. Get the project URL, the synatx would be eg: https://project-name.glitch.me
 
